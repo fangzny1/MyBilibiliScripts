@@ -11,7 +11,7 @@
     - 拦截部分Bilibili的数据上报请求 (fetch, WebSocket, XMLHttpRequest)。
     - 尝试修复评论加载异常和未捕获的Promise错误。
     - 支持通过 `DEBUG_MODE` 常量开启或关闭控制台日志输出。
-- **文件名**: `Bilibili Enhanced Blocker (All-in-One)test-1.0.4.beta_user .js`
+- **文件名**: `Bilibili Enhanced Blocker (All-in-One)beta-1.0.5.user.js`
 
 ## 如何安装
 
